@@ -9,16 +9,19 @@
     --line:#303030}
 
 *{
-    box-sizing:border-box}
-    html{
-        scroll-behavior:smooth
-    }
-    body{
-        margin:0;
-        background:var(--bg);
-        color:var(--text);
-        font-family:Inter,Arial,sans-serif;line-height:1.6
-    }
+    box-sizing:border-box
+}
+
+html{
+    scroll-behavior:smooth
+}
+
+body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:Inter,Arial,sans-serif;line-height:1.6
+}
 
 .site-header{
     min-height:76px;
